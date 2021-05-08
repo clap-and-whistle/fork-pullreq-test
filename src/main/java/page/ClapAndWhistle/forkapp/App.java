@@ -1,10 +1,10 @@
-package page.clap-and-whistle.forkapp;
+package page.ClapAndWhistle.forkapp;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
